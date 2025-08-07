@@ -1,0 +1,11 @@
+.main_body button {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background-color: #022723;
+  justify-content: center;
+  font-size: 50px;
+}
+.main_body button:hover {
+  background-color: #05df;
+}
